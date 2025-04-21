@@ -4,7 +4,7 @@
 
 * Downloaded the Netflix dataset CSV file from Kaggle and imported it into Python using the Pandas library.
   
-* Identified and handled missing values appropriately.Used mode and 'unknown' imputation for categorical data and mean for numerical data
+* Identified and handled missing values appropriately. Used mode and 'unknown' imputation for categorical data and mean for numerical data
   
 * Removed duplicate records to ensure data integrity.
 
